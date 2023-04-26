@@ -1,0 +1,2 @@
+
+let placa, Npasajero, Vpasaje
